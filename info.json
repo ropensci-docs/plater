@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "301311ff46a34e1242df242d6edfb673c9e3d026",
+    "author": "Sean Hughes <seaaan@gmail.com>",
+    "time": "2021-01-04 23:18:36",
+    "files": 2,
+    "merge": false,
+    "message": "Ready for CRAN\n"
+  },
+  "remote": "https://github.com/ropensci/plater",
+  "pkg": "plater"
+}
