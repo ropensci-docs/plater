@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "03c07b6eab2ec3fbe7e2a62d4e4f53ddb0f7e08a",
+    "author": "Sean Hughes <smhughes@uw.edu>",
+    "time": "2022-02-11 19:24:48",
+    "files": 1,
+    "merge": false,
+    "message": "remove NOTE-causing line from DESCRIPTION\n"
+  },
+  "repo": "https://github.com/ropensci/plater",
+  "pkg": "plater"
+}
