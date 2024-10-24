@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5b0c1d4cece7735ea3f674f5e0865c3de16d78b8",
+    "author": "Sean Hughes <smhughes@uw.edu>",
+    "time": "2024-10-23 23:36:07",
+    "files": 2,
+    "merge": false,
+    "message": "Fix broken badge link\n"
+  },
+  "repo": "https://github.com/ropensci/plater",
+  "pkg": "plater"
+}

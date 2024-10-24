@@ -1,0 +1,19 @@
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://docs.ropensci.org/plater/404.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/CONDUCT.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/LICENSE-text.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/articles/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/articles/plater-basics.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/authors.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/news/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/paper.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/reference/add_plate.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/reference/check_plater_format.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/reference/index.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/reference/plater-package.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/reference/read_plate.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/reference/read_plates.html</loc></url>
+<url><loc>https://docs.ropensci.org/plater/reference/view_plate.html</loc></url>
+</urlset>
+
